@@ -1,5 +1,6 @@
 form{
     margin-left: 40px;
+    margin-right: 40px;
 }
 
 .tableForm{
@@ -21,4 +22,11 @@ form{
 }
 #c2r1{
     background-color: rgb(237, 138, 218);
+}
+#FormHeading{
+    padding-top: 15px;
+    padding-bottom: 15px;
+        margin-bottom: 25px;
+        margin-top: 30px;
+        border: double;
 }
